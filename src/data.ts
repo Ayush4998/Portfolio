@@ -7,7 +7,7 @@ export const projects = [
   {
     title: 'Portfolio Website',
     description: 'A modern, responsive portfolio website built with React, TypeScript, and Tailwind CSS, showcasing my projects and skills.',
-    link: 'https://drive.google.com/file/d/14MUC124utHVVhBBHkvVYFaYamBGeVRQC/view?usp=sharing'
+    link: 'https://portfolio-eosin-psi-77.vercel.app/'
   },
   {
     title: 'Air Quality Monitoring and Room Safety Prediction',
