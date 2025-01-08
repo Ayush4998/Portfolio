@@ -83,9 +83,10 @@ function App() {
                   <h4 className="text-xl font-medium">Vellore Institute of Technology (VIT Chennai)</h4>
                   <p className="text-gray-600">B. Tech in Computer Science Engineering</p>
                   <p className="text-gray-500">Expected graduation: 2026</p>
+                  <p className="text-gray-500">CGPA — 8 and above</p>
                 </div>
                 <div className="border-l-4 border-[#0056b6] pl-4">
-                  <h4 className="text-xl font-medium">Navyug Convent Sr. sec. School</h4>
+                  <h4 className="text-xl font-medium">Navyug Convent School</h4>
                   <p className="text-gray-600">12th Grade</p>
                   <p className="text-gray-500">2022 — 83%</p>
                 </div>
